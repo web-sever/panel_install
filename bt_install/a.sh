@@ -1,0 +1,1 @@
+echo bt_install
